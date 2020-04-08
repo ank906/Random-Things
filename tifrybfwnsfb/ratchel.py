@@ -52,4 +52,4 @@ print("info:\nThis script types out all 505 words so it will take a bit make sur
 con = input("")
 if con == "":
     start()
-
+#woop woop got this idea from a tiktok https://vm.tiktok.com/nRvwWo/ 
