@@ -1,1 +1,0 @@
-This script requires python so get that here https://www.python.org/downloads/
