@@ -1,5 +1,5 @@
 /**
-ok high gamers if u dont know how to do the minecraft trachers thing for 1.12.2 b/c the videos are to hard to find
+ok high gamers if u dont know how to do the minecraft tracers thing for 1.12.2 b/c the videos are to hard to find
 and well im here to tell u ur dumb and it stupid simple so here:
 
 we put this in renderUtils if u have it
