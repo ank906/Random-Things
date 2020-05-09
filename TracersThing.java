@@ -19,7 +19,7 @@ public static void drawTracerLine(double x, double y, double z, float red, float
         GL11.glLineWidth(lineWdith);
         GL11.glColor4f(red, green, blue, alpha);
         GL11.glBegin(2);
-	//here its the thing under here i wont tell u any more but this make the trachers got to the center of ur thingy
+	//hi its the thing under here i wont tell u any more but this make the tracers got to the center of ur thingy
         GL11.glVertex3d(rotateYaw.xCoord, mc.player.getEyeHeight() + rotateYaw.yCoord, rotateYaw.zCoord);
 	// oof
         GL11.glVertex3d(x, y, z);
